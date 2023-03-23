@@ -29,11 +29,12 @@
     * [flyway数据库版本控制](pages/java/flyway数据库版本控制.md)
     * [spring-retry重试机制](pages/java/spring-retry重试机制.md)
     * [杂项记录](pages/java/杂项记录.md)
-* NodeJS
-    + [Hexo搭建个人博客](pages/nodejs/Hexo搭建个人博客.md)
-    + [JqAjax资讯详情](pages/nodejs/JqAjax资讯详情.md)
-    + [vue报错解决办法](pages/nodejs/vue报错解决办法.md)
-    + [Mac相关](pages/nodejs/Mac.md)
+* **Other**
+  * [Hexo搭建个人博客](pages/other/Hexo搭建个人博客.md)
+  * [JqAjax资讯详情](pages/other/JqAjax资讯详情.md)
+  * [vue报错解决办法](pages/other/vue报错解决办法.md)
+  * [Mac相关](pages/other/Mac.md)
+  * [Go相关](pages/other/Go.md)
 * **设计模式**
   * [设计原则](pages/design/设计原则.md)
   * **创建型模式**
