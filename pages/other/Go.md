@@ -10,6 +10,7 @@
 | http请求 | <https://github.com/asmcos/requests> |
 | 结构体复制 | <https://github.com/jinzhu/copier> |
 | 定时任务 | <https://github.com/robfig/cron/> |
+| 配置文件 | <https://github.com/spf13/viper/> |
 
 ### RSA加解密
 ```
