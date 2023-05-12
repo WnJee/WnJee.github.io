@@ -9,10 +9,13 @@
 | ULID | <https://github.com/oklog/ulid> |
 | http请求 | <https://github.com/asmcos/requests> |
 | 结构体复制 | <https://github.com/jinzhu/copier> |
-| 定时任务 | <https://github.com/robfig/cron/> |
-| 配置文件 | <https://github.com/spf13/viper/> |
+| 定时任务 | <https://github.com/robfig/cron> |
+| 配置文件 | <https://github.com/spf13/viper> |
+| 命令行 | <https://github.com/spf13/cobra> |
+| 爬虫 | <https://github.com/gocolly/colly> |
+| JSON读取 | <https://github.com/tidwall/gjson> |
 
-### RSA加解密
+### RSA密钥
 ```
 -----BEGIN PUBLIC KEY-----
 MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnKSHlYW8xh9wII4iSNlKvacgM
@@ -38,4 +41,9 @@ YRmp2fT5L/XUZeWZBCvzm7/KVWs6stVKhp8ym8JpzSJB9Hm4SY3S7tUCQQCeDgYY
 AzQOaV0PM7iXnyJ0
 -----END PRIVATE KEY-----
 
+```
+
+### chatGPT APIKey
+```
+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
 ```
