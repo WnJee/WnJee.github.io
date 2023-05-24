@@ -5,6 +5,7 @@
 | 微信SDK | <https://github.com/silenceper/wechat> |
 | 第三方支付 | <https://github.com/go-pay/gopay> |
 | 工具集合 | <https://github.com/samber/lo> |
+| 工具集合(全) | <https://github.com/duke-git/lancet> |
 | Redis | <https://github.com/go-redis/redis/v8> |
 | ULID | <https://github.com/oklog/ulid> |
 | http请求 | <https://github.com/asmcos/requests> |
@@ -13,6 +14,8 @@
 | 配置文件 | <https://github.com/spf13/viper> |
 | 命令行 | <https://github.com/spf13/cobra> |
 | 爬虫 | <https://github.com/gocolly/colly> |
+| html解析-css | <https://github.com/PuerkitoBio/goquery> |
+| html解析-xpath | <https://github.com/antchfx/htmlquery> |
 | JSON读取 | <https://github.com/tidwall/gjson> |
 
 ### RSA密钥
@@ -45,5 +48,5 @@ AzQOaV0PM7iXnyJ0
 
 ### chatGPT APIKey
 ```
-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
+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
 ```
