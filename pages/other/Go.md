@@ -10,7 +10,7 @@
 | ULID | github.com/oklog/ulid |
 | http请求 | github.com/asmcos/requests |
 | 结构体复制 | github.com/jinzhu/copier |
-| 定时任务 | github.com/robfig/cron |
+| 定时任务 | github.com/robfig/cron/v3 |
 | 配置文件 | github.com/spf13/viper |
 | 命令行 | github.com/spf13/cobra |
 | 爬虫 | github.com/gocolly/colly |
