@@ -2,21 +2,20 @@
 
 | 备注 | GitHub |
 | -----:| :---- |
-| 微信SDK | <https://github.com/silenceper/wechat> |
-| 第三方支付 | <https://github.com/go-pay/gopay> |
-| 工具集合 | <https://github.com/samber/lo> |
-| 工具集合(全) | <https://github.com/duke-git/lancet> |
-| Redis | <https://github.com/go-redis/redis/v8> |
-| ULID | <https://github.com/oklog/ulid> |
-| http请求 | <https://github.com/asmcos/requests> |
-| 结构体复制 | <https://github.com/jinzhu/copier> |
-| 定时任务 | <https://github.com/robfig/cron> |
-| 配置文件 | <https://github.com/spf13/viper> |
-| 命令行 | <https://github.com/spf13/cobra> |
-| 爬虫 | <https://github.com/gocolly/colly> |
-| html解析-css | <https://github.com/PuerkitoBio/goquery> |
-| html解析-xpath | <https://github.com/antchfx/htmlquery> |
-| JSON读取 | <https://github.com/tidwall/gjson> |
+| 微信SDK | github.com/silenceper/wechat/v2 |
+| 第三方支付 | github.com/go-pay/gopay |
+| 工具集合(全) | github.com/duke-git/lancet/v2 |
+| Slice工具 | github.com/elliotchance/pie/v2 |
+| Redis | github.com/go-redis/redis/v8 |
+| ULID | github.com/oklog/ulid |
+| http请求 | github.com/asmcos/requests |
+| 结构体复制 | github.com/jinzhu/copier |
+| 定时任务 | github.com/robfig/cron |
+| 配置文件 | github.com/spf13/viper |
+| 命令行 | github.com/spf13/cobra |
+| 爬虫 | github.com/gocolly/colly |
+| html解析-css | github.com/PuerkitoBio/goquery |
+| JSON读取 | github.com/tidwall/gjson |
 
 ### RSA密钥
 ```
