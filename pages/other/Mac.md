@@ -4,6 +4,10 @@
 /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
 ```
 
+```
+# iterm2配置fish
+https://learnku.com/articles/3647/iterm-2-simple-installation-of-fish-and-configure-the-theme
+```
 
 
 ### Git初始化
